@@ -37,19 +37,25 @@
 }
 [data-novi-id="4"]{
   text-align: justify;
+  
 }
 [data-novi-id="3"]{
-  text-decoration: underline;
+  
+  font-weight: 700;
 }
 [data-novi-id="2"]{
   font-weight: 700;
+  font-weight: 700;
 }
 [data-novi-id="1"]{
-  font-size: 56px;
+  font-size: 55px;
   font-weight: 300;
+  font-weight: 700;
 }
 [data-novi-id="0"]{
   text-align: center;
+  font-weight: 100;
+  
 }
 @media (min-width: 1600px) and (max-width: NaNpx){
 [data-novi-id="1"]{
